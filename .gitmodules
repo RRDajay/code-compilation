@@ -1,0 +1,9 @@
+[submodule "binary_trees"]
+	path = binary_trees
+	url = https://github.com/RRDajay/binary_trees
+[submodule "sorting_algorithms"]
+	path = sorting_algorithms
+	url = https://github.com/RRDajay/sorting_algorithms
+[submodule "numerical_methods"]
+	path = numerical_methods
+	url = https://github.com/RRDajay/numerical_methods
