@@ -9,6 +9,6 @@ def FirstFactorial(num):
         
     return num * FirstFactorial(num-1)
 
-num = 20
+num = 5
 
 print(FirstFactorial(num))
